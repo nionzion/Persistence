@@ -1,0 +1,12 @@
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\bin\Debug\netcoreapp2.0\Persistence.runtimeconfig.json
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\bin\Debug\netcoreapp2.0\Persistence.runtimeconfig.dev.json
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\prettyfl4cko\source\repos\Persistence\Persistence\obj\Debug\netcoreapp2.0\Persistence.genruntimeconfig.cache

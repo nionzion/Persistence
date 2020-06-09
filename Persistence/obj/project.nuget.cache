@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RHtd72ZTt4T0eSSgXXoplHYzy3gtmgtEffnZp3Sqp2SXOuD6GOPQZaqgTH98qIk9Sm+Xyj4dEp5ntby7M/Wt6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prettyfl4cko\\source\\repos\\Persistence\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prettyfl4cko\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\prettyfl4cko\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\prettyfl4cko\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\prettyfl4cko\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\prettyfl4cko\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
